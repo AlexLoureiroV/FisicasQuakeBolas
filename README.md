@@ -4,6 +4,8 @@ Práctica de físicas en Unity (módulo 5.1.4): un cañón dispara bolas hacia u
 
 Versión de Unity: 6000.3.16f1 (URP). Escena: `Assets/Scenes/SampleScene.unity`.
 
+El enunciado del ejercicio, con el prompt usado y la propuesta de la IA, está en [ENUNCIADO.md](ENUNCIADO.md).
+
 ## Cómo se juega
 
 1. Apunta el cañón y mantén **Espacio** para cargar fuerza; suelta para disparar.
